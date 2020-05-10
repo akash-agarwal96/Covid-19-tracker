@@ -1,0 +1,16 @@
+.container {
+    margin-top: 20px;
+    left: 0;
+    bottom: 0;
+    background: lightblue;
+    width: 100%;
+    padding: 6px;
+    font-family: 'Comfortaa', cursive;;
+    font-size: 16px;
+    letter-spacing: 1px;
+    color: black;
+    text-align: center;
+}
+
+
+
